@@ -1,7 +1,7 @@
 import pytest
 from lib.password_checker import *
 
-
+#Muniba Malik
 # Lets first test if the length is more than or equal to eight.
 def test_if_pass_is_correct_length():
     passwordchecker = PasswordChecker()
